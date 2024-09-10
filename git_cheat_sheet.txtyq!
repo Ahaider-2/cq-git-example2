@@ -1,0 +1,11 @@
+git add
+Add files to the staging area
+
+git status
+Show the current status of the repository
+
+git commit -m "This is a first command!"
+Commit changes to the repository
+
+git push
+Push changes to a remote repository
