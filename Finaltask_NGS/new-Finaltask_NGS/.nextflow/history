@@ -1,0 +1,7 @@
+2024-09-28 09:13:54	-	kickass_brown	-	da6537f10552f70d3ae109eeb4f54a88	06239253-3bbf-476b-ac35-33f71bb1013b	nextflow run workflow_exam_pdf.nf
+2024-09-28 09:18:06	-	crazy_shockley	-	f163ab38de0fb40b0adcfe8ac247836e	06239253-3bbf-476b-ac35-33f71bb1013b	nextflow run workflow_exam_pdf.nf -resume
+2024-09-28 09:20:53	6s	fabulous_feynman	ERR	49a9ff55bdd209fff29e7d046176f517	06239253-3bbf-476b-ac35-33f71bb1013b	nextflow run workflow_exam_pdf.nf -resume
+2024-09-28 09:26:49	4.2s	kickass_kilby	ERR	74b4f41c9a7fedd646d0959d7a3f13d6	06239253-3bbf-476b-ac35-33f71bb1013b	nextflow run workflow_exam_pdf.nf -resume
+2024-09-28 09:31:52	4.2s	high_snyder	ERR	669b6ccadecc4370717a348c515434b6	06239253-3bbf-476b-ac35-33f71bb1013b	nextflow run workflow_exam_pdf.nf -resume
+2024-09-28 09:35:54	4.3s	exotic_colden	ERR	669b6ccadecc4370717a348c515434b6	06239253-3bbf-476b-ac35-33f71bb1013b	nextflow run workflow_exam_pdf.nf -resume
+2024-09-28 09:37:50	5s	sharp_swirles	OK	0063f630bd4876bad02170c782e77595	06239253-3bbf-476b-ac35-33f71bb1013b	nextflow run workflow_exam_pdf.nf -resume
